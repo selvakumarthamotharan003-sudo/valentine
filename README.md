@@ -53,7 +53,7 @@
 
 <body onclick="startMusic()">
 
-  <h1>Hey HER_NAME 💕</h1>
+  <h1>Hey VEEE 💕</h1>
   <p>Will you be my Valentine? 💘</p>
 
   <button id="yes" onclick="yesClicked()">Yes 😍</button>
